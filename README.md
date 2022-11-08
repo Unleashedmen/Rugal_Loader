@@ -1,5 +1,5 @@
 # Rugal_Loader
-FUD MAC Loader , with Indirect syscall dynamic syscall , get function address from the peb , No new thread , function hash comparaison . Tested on Sentinel1 &amp; Crowdstrike , no prevention/detection
+FUD MAC Loader , with Indirect syscall dynamic syscall , get function address from the peb, function hash comparaison . Tested on Sentinel1 &amp; Crowdstrike , no prevention/detection
 ### bypass EDRS , tested on Sentinel1 & CrowdsStrike no detection/prevention 11/8/2022
 
 
